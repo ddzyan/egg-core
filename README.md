@@ -4,3 +4,6 @@
 # 源码分析进度
 - [x] EggCore
 - [x] loadController
+- [x] loadConfig
+- [x] loadPlugin
+- [x] loadExtend
