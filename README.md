@@ -7,3 +7,13 @@
 - [x] loadConfig
 - [x] loadPlugin
 - [x] loadExtend
+- [x] loadRouter
+- [x] loadService
+- [x] loadCustomLoader
+- [x] loadCustom
+
+# UML
+![img](./EGG-CORE.png)
+
+# 架构
+![img](./egg架构设计.jpeg)
